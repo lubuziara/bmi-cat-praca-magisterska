@@ -1,0 +1,5 @@
+# Copy to android/key.properties and fill only in a secure local machine or CI secret store.
+storePassword=
+keyPassword=
+keyAlias=
+storeFile=/absolute/path/to/bmi-cat-release-upload.keystore

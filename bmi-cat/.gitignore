@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.db
+*.db-*
+outbox/
+.dart_tool/
+build/
+local.properties
+**/key.properties
+**/*.keystore
+**/*.jks
+*.iml
+.idea/
+
+sms_outbox/

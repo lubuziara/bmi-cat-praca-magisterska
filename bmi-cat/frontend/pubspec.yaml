@@ -1,0 +1,38 @@
+name: bmi_cat
+description: BMI Cat — aplikacja webowa i Android.
+publish_to: none
+version: 0.1.0+1
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  image_picker: 1.1.2
+  url_launcher: 6.3.1
+  http: ^1.2.2
+  google_sign_in: 6.2.2
+  google_sign_in_web: ^0.12.4
+  google_sign_in_platform_interface: ^2.4.0
+  qr_flutter: ^4.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/prototype/
+    - assets/hanging_cat.png
+    - assets/avatar3d/
+    - assets/avatar3d/vendor/
+  fonts:
+    - family: BmiRoboto
+      fonts:
+        - asset: assets/fonts/roboto-regular.ttf
+        - asset: assets/fonts/roboto-medium.ttf
+          weight: 500
+        - asset: assets/fonts/roboto-bold.ttf
+          weight: 700
+

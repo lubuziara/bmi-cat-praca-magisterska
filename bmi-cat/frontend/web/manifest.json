@@ -1,0 +1,12 @@
+{
+  "name": "BMI Cat",
+  "short_name": "BMI Cat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFEEF5",
+  "theme_color": "#754298",
+  "description": "BMI Cat — Twoje konto.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds", "delegate_permission/common.handle_all_urls"],
+    "target": {"namespace": "android_app", "package_name": "pl.bmicat.bmi_cat", "sha256_cert_fingerprints": ["B0:C9:29:43:F5:B3:CD:0B:EC:0E:3B:EC:77:45:5B:2B:7A:C9:2F:94:8F:BE:89:17:F4:7A:DF:93:C7:86:FE:47"]}
+  }
+]

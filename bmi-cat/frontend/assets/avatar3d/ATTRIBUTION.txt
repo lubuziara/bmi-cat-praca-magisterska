@@ -1,0 +1,8 @@
+Sitting cat (British Shorthair Blue Cat)
+Author: 3D Creator — https://sketchfab.com/3DChuang-Ke-Ji
+Source: https://sketchfab.com/3d-models/sitting-catbritish-shorthair-blue-cat-ee5dcbdd0c2b4c33adf83d4c6708e6ae
+License: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Original model supplied by the user. Original GLB retained unchanged.
+BMI Cat modifications at runtime: material tint, body deformation, layered fur rendering.
+Three.js 0.169.0: MIT, see vendor/THREE-LICENSE.txt.

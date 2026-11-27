@@ -1,0 +1,13 @@
+fastapi==0.141.1
+uvicorn==0.52.4
+sqlalchemy==2.0.52
+pwdlib[argon2]==0.3.1
+pydantic-settings==2.15.0
+email-validator==2.3.0
+google-auth==2.57.1
+requests==2.34.2
+redis==5.2.1
+
+Pillow==12.3.0
+cryptography==50.0.1
+webauthn==2.7.0
